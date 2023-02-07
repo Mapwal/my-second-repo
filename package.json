@@ -1,0 +1,20 @@
+{
+  "name": "my-second-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "start": "node js.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mapwal/my-second-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mapwal/my-second-repo/issues"
+  },
+  "homepage": "https://github.com/Mapwal/my-second-repo#readme"
+}
